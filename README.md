@@ -3,7 +3,7 @@ A test simulation of a robotic arm to explore basic features of ROS
 
 This repository contains the simulation of a robotic arm. This was done in order to gain experience with some nice features of ROS: robot description using urdf and xacro, simulation in Gazebo, joint-space control of the arm,and finally inverse kinematics and motion planning with MoveIt!.
 
-###**Usage**
+##**Usage**##
 
 **Install dependencies:**
 
@@ -31,14 +31,14 @@ roslaunch demo.launch
 
 You can now use the MoveIt! plugin in Rviz to control the arm.
 
-Images:
+**Images:**
 
 ![gazebo_joint_controller](https://user-images.githubusercontent.com/44526371/47739612-be90c380-dc9b-11e8-8d33-499090547f85.png)
 
 
 ![moveit_](https://user-images.githubusercontent.com/44526371/47739618-c3557780-dc9b-11e8-999a-fca53b56f143.png)
 
-Videos
+**Videos**
 
 ![gazebo_joint_controller](https://user-images.githubusercontent.com/44526371/47739582-af117a80-dc9b-11e8-9cb8-64dd14c14351.gif)
 
