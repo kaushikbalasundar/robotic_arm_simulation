@@ -30,3 +30,17 @@ rosrun rqt_gui rqt_gui
 roslaunch demo.launch 
 
 You can now use the MoveIt! plugin in Rviz to control the arm.
+
+Images:
+
+![gazebo_joint_controller](https://user-images.githubusercontent.com/44526371/47739612-be90c380-dc9b-11e8-8d33-499090547f85.png)
+
+
+![moveit_](https://user-images.githubusercontent.com/44526371/47739618-c3557780-dc9b-11e8-999a-fca53b56f143.png)
+
+Videos
+
+![gazebo_joint_controller](https://user-images.githubusercontent.com/44526371/47739582-af117a80-dc9b-11e8-9cb8-64dd14c14351.gif)
+
+![moveit](https://user-images.githubusercontent.com/44526371/47739593-b6388880-dc9b-11e8-8f9a-56ecc2e2b8f4.gif)
+
