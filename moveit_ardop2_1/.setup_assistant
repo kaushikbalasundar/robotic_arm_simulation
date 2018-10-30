@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ardop_description
+    relative_path: urdf/ardop_description.urdf
+    xacro_args: "--inorder "
+  SRDF:
+    relative_path: config/ardop.srdf
+  CONFIG:
+    author_name: Kaushik
+    author_email: kaushik5498@gmail.com
+    generated_timestamp: 1540835109

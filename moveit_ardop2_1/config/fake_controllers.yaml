@@ -1,0 +1,6 @@
+controller_list:
+  - name: fake_End_effector_controller
+    joints:
+      - ee_pitch_joint
+      - ee_roll_joint
+      - end_effector_joint
