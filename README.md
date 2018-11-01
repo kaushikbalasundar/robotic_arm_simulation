@@ -44,3 +44,4 @@ You can now use the MoveIt! plugin in Rviz to control the arm.
 
 ![moveit](https://user-images.githubusercontent.com/44526371/47739593-b6388880-dc9b-11e8-8f9a-56ecc2e2b8f4.gif)
 
+
