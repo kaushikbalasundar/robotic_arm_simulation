@@ -9,9 +9,16 @@ This repository contains the simulation of a robotic arm. This was done in order
 
 rosdep install --from-paths src --ignore-src -r -y
 
-Next,follow the instructions to set up a workspace and a package as in the PDF documentation. 
+Follow the instructions to set up a workspace and a package as in the PDF documentation. 
 
-**Build catkin workspace:**
+cd ~/catkin_ws/src/
+
+**Clone the repsository inside src**
+
+git clone https://github.com/kaushikbalasundar/robotic_arm_simulation
+cd ..
+
+**Build catkin workspace in the catkin_ws directory:**
 
 catkin_make
 
@@ -29,9 +36,9 @@ rosrun rqt_gui rqt_gui
 
 **Launch the MoveIt! move group to control the end effector:**
 
-roslaunch demo.launch 
+roslaunch moveit_ardop2_1 demo.launch
 
-You can now use the MoveIt! plugin in Rviz to control the arm.
+You can now use the MoveIt! plugin in Rviz to control the arm. 
 
 **Images:**
 
