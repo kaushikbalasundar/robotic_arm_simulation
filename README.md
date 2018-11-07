@@ -13,12 +13,13 @@ Follow the instructions to set up a workspace and a package as in the PDF docume
 
 cd ~/catkin_ws/src/
 
-**Clone the repsository inside src**
+**Clone this repository inside src:**
 
 git clone https://github.com/kaushikbalasundar/robotic_arm_simulation
-cd ..
 
 **Build catkin workspace in the catkin_ws directory:**
+
+cd ..
 
 catkin_make
 
