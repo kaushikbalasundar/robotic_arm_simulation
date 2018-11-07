@@ -9,6 +9,8 @@ This repository contains the simulation of a robotic arm. This was done in order
 
 rosdep install --from-paths src --ignore-src -r -y
 
+Next,follow the instructions to set up a workspace and a package as in the PDF documentation. 
+
 **Build catkin workspace:**
 
 catkin_make
