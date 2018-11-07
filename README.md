@@ -50,6 +50,9 @@ You can now use the MoveIt! plugin in Rviz to control the arm.
 
 **Videos**
 
+https://youtu.be/DIlwMaeZNaM - Gazebo Simulation
+https://youtu.be/jrXxrtXL1Yg - MoveIt! Simulation
+
 ![gazebo_joint_controller](https://user-images.githubusercontent.com/44526371/47739582-af117a80-dc9b-11e8-9cb8-64dd14c14351.gif)
 
 ![moveit](https://user-images.githubusercontent.com/44526371/47739593-b6388880-dc9b-11e8-8f9a-56ecc2e2b8f4.gif)
